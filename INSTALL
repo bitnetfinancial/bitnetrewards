@@ -1,0 +1,9 @@
+Building bitnetrewards
+
+See doc/readme-qt.rst for instructions on building bitnetrewards-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of bitnetrewards.
+
+See doc/build-*.txt for instructions on building bitnetrewardsd,
+the intended-for-services, no-graphical-interface, reference
+implementation of bitnetrewards.
